@@ -33,7 +33,7 @@ print('  \ \/ / / /\ \   |  __||______|\___ \  \___ \  | | ')
 print('   \  / / ____ \ _| |____ _   _ ____) | ____) | |_| ')
 print('    \(_)_/    \_(_)______(_) (_)_____(_)_____/  (_) ')
 time.sleep(0.75)
-print('A.K.A Very Accurate Eco-System Simulator (ALPHA-2.0)')
+print('A.K.A Very Accurate Eco-System Simulator (ALPHA-3.0)')
 print()
 #patch notes
 time.sleep(2)
